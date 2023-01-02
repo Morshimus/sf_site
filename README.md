@@ -1,2 +1,2 @@
 # sf_site
-SkillFactory Practive Job
+SkillFactory Practice Job
