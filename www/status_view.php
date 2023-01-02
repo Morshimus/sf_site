@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Monitor Display</title>
+	<title>Monitor Display Rea Time</title>
 </head>
 <body>
 	<h1>whatever you display in admin page</h1>
