@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Admin Display</title>
+	<title>Admin Display in Real Time</title>
 </head>
 <body>
 	<h1>whatever you display in admin page</h1>
